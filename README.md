@@ -8,6 +8,6 @@ This project develops a C++ client application capable of requesting and receivi
 3. Run the command: g++ -o client client.cpp -lws2_32
 4. The above command will generate a client.exe file.
 5. Now open another terminal and run the server : node main.js
-6. In other terminal run the exe file: client.exe
+6. In other terminal run the exe file: ./client.exe
 
 Following these steps will generate a output.json file.
